@@ -2,7 +2,7 @@
 
 My name is Brian K. Burnett Jr and I'm a Computer Information Systems and Computer Science student interested in all things programming and tech!
 
-- 🌱 I’m currently learning about Cloud infrastructures, Cybersecurity, AI, Data Structures, Python, C Language, C++, JavaScript, etc.
+- 🌱 I’m currently learning about Cloud infrastructures, Cybersecurity, AI, Data Structures, Python, C Language, and C++.
 
 <!--
 **BrianBurnett29/BrianBurnett29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
